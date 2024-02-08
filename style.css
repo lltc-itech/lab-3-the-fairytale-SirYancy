@@ -1,1 +1,31 @@
 /* Your code goes here */
+body {
+    width: 50%;
+    padding: 10px;
+    border: 1px solid;
+}
+
+h1 {
+    border-right-style: solid;
+    border-left-style: solid;
+    border-radius: 5px;
+    padding: 8px;
+}
+
+h2 {
+    color: white;
+    background-color: black;
+}
+
+div.align-right {
+    text-align: right;
+}
+
+a {
+    text-decoration: none;
+}
+
+footer {
+    border-top: solid;
+    font-size: small;
+}
